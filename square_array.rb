@@ -1,4 +1,4 @@
 def square_array(numbers)
-
-numbers.each {|int| return int**2}
+sqr_root=[]
+sqr_root<< numbers.each {|int| return int**2}
 end
