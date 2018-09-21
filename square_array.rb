@@ -1,3 +1,4 @@
 def square_array(numbers)
-return numbers.each {|int| int**2}
+
+numbers.each {|int| int**2}= numbers
 end
